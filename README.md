@@ -1,4 +1,5 @@
-# multithread-server-client
+# multithread-server
+
 java project
 
 
