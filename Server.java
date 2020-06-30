@@ -13,7 +13,7 @@ import java.net.Socket;
  *
  * @author timos
  */
-public class Erg2_thema2_server {
+public class Server {
 
        //port number
       
